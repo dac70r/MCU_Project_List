@@ -3,6 +3,7 @@ This is a consolidated list of all MCU related projects, consolidated for easy a
 
 ## I2C 
 1. BH1750-GY302 & I3G4250D - [BH1750-GY302 & I3G4250D](https://github.com/dac70r/BH1750-GY302-Src-Code)
+2. QMC5883L - [QMC5883L](https://github.com/dac70r/FreeRTOS_NucleoH755ZIQ)
 
 ## SPI
 1. EtherCAT Subsystem Controller - [EtherCAT Subsystem Controller](https://github.com/dac70r/Nucleo743ZI2_ASIX58100_TwinCAT)
